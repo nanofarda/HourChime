@@ -1,0 +1,10 @@
+﻿<resources>
+    <string name="app_name">HourChime</string>
+    <string name="status_idle">آلارم‌ها فعال نشده‌اند. دکمه زیر را بزنید.</string>
+    <string name="enable">فعال‌سازی زنگ ساعت</string>
+    <string name="scheduled">زنگ‌ها برنامه‌ریزی شدند.</string>
+    <string name="need_exact_alarm">برای دقت بالا به دسترسی «الارم دقیق» نیاز است.</string>
+    <string name="grant_exact">درخواست دسترسی آلارم دقیق</string>
+    <string name="grant_exact_alarm">لطفاً دسترسی Alarms &amp; reminders را فعال کنید.</string>
+    <string name="exact_alarm_ok">دسترسی آلارم دقیق فعال است.</string>
+</resources>
